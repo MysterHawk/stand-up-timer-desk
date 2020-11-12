@@ -1,0 +1,9 @@
+## PLEASE rename this file as `config ` or the script won't work. ty :)
+
+# time for sleep notification (in minutes)
+timeStandUp=30
+timeStandDown=30
+
+# sounds location
+standUpSound='sounds/stand_up.flac'
+standDownSound='sounds/stand_down.flac'
