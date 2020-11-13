@@ -23,7 +23,7 @@ It is essentialy a bash script.
    **PROTIP** Edit the language.json dictionary to add more languages and after that edit the config file with the new title of the language.
 3. Have fun!
 
-# NOTE:
+# EXTERNAL DEPENDENCIES
 
 - You need the program Sox to play the notification's sound
 - You need the program Jq to parse the language Json dictionary
