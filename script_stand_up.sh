@@ -1,7 +1,12 @@
 #!/bin/bash
 
+# Get the project current directory
+PROJECT_DIR="$( cd "$(dirname "$0")"|| exit  >/dev/null 2>&1 ; pwd -P )"
+
+
+
 # Import the config
-source config
+source "${PROJECT_DIR}/config"
 
 
 while true; do

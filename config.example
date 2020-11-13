@@ -5,5 +5,5 @@ timeStandUp=30
 timeStandDown=30
 
 # sounds location
-standUpSound='sounds/stand_up.flac'
-standDownSound='sounds/stand_down.flac'
+standUpSound="${PROJECT_DIR}/sounds/stand_up.flac"
+standDownSound="${PROJECT_DIR}/sounds/stand_down.flac"
