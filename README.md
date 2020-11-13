@@ -3,10 +3,17 @@
 This project aim to create a timer to stand up/stand down while you are working at your desk.
 It should be useful for your back, thank me later ;)
 
+It is essentialy a bash script.
+
 # Instructions:
 
 1. Please rename example's config as `config`, the script won't work without it!
-2. You can change the sleep times (stand up and standown times) and the notification's sounds
+2. You can change:
+   - the sleep times (stand up and standown times)
+   - Notification's sounds
+   - The language that you want to use as the description of the notification
+   
+   **PROTIP** Edit the language.json dictionary to add more languages
 3. Have fun!
 
 # NOTE:
