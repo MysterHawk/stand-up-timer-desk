@@ -7,3 +7,7 @@ timeStandDown=30
 # sounds location
 standUpSound="${PROJECT_DIR}/sounds/stand_up.flac"
 standDownSound="${PROJECT_DIR}/sounds/stand_down.flac"
+
+
+# Choose a language (for the moment is supported only eng/ita)
+language='eng'

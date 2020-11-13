@@ -1,0 +1,18 @@
+{
+   "ita":[
+      {
+         "descriptionStandUp":"Per piacere alzati"
+      },
+      {
+         "descriptionStandDown":"Ora puoi sederti"
+      }
+   ],
+   "eng":[
+      {
+         "descriptionStandUp":"Please stand up"
+      },
+      {
+         "descriptionStandDown":"Now you can sit down"
+      }
+   ]
+}
