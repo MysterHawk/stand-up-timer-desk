@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 # Introduction:
 
 This project aim to create a timer to stand up/stand down while you are working at your desk.
