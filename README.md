@@ -1,5 +1,10 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
+
+<h1>Stand up timer desk</h1>
+<img src="https://www.flaticon.com/svg/static/icons/svg/2271/2271436.svg" alt="chair logo" width="250px">
+
+
 # Introduction:
 
 This project aim to create a timer to stand up/stand down while you are working at your desk.
@@ -29,3 +34,6 @@ The sounds effects are from https://freesounds.org and they have the license `At
 The authors are:
 - for the stand up Sound [n2p5](https://freesound.org/people/n2p5/sounds/49477/)
 - for the stand down sound [Harbour11](https://freesound.org/people/Harbour11/sounds/194625/)
+
+# Icon creators:
+- Icons made by <a href="https://www.flaticon.com/authors/ultimatearm" title="ultimatearm">ultimatearm</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
