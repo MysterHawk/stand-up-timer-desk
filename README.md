@@ -13,7 +13,7 @@ It is essentialy a bash script.
    - Notification's sounds
    - The language that you want to use as the description of the notification
    
-   **PROTIP** Edit the language.json dictionary to add more languages
+   **PROTIP** Edit the language.json dictionary to add more languages and after that edit the config file with the new title of the language.
 3. Have fun!
 
 # NOTE:
