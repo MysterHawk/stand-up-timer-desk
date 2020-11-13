@@ -26,6 +26,7 @@ It is essentialy a bash script.
 # NOTE:
 
 - You need the program Sox to play the notification's sound
+- You need the program Jq to parse the language Json dictionary
 
 # Sound Authors:
 
