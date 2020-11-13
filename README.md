@@ -9,7 +9,7 @@ It is essentialy a bash script.
 
 # Instructions:
 
-1. Please rename example's config as `config`, the script won't work without it!
+1. Please rename `example.config` file as `config`, the script won't work without it!
 2. You can change:
    - the sleep times (stand up and standown times)
    - Notification's sounds
